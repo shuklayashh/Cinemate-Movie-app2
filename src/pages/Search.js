@@ -3,7 +3,7 @@ import { useFetch } from "../hooks/useFetch";
 import { Card } from "../components";
 import {useTitle} from "../hooks/useTitle";
 
-import {useEffect} from "react";
+
 export const Search = ({apiPath}) => {
   console.log(Search)
   const [searchParams] = useSearchParams();
