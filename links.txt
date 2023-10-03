@@ -1,0 +1,23 @@
+81ad184ef3feb48d16ad28b8619b2093
+Base Url : https://api.themoviedb.org/3
+
+Individual:
+https://api.themoviedb.org/3/search/movie/{movie_id}?api_key=81ad184ef3feb48d16ad28b8619b2093
+
+Now Playing :
+https://api.themoviedb.org/3/movie/now_playing?api_key=81ad184ef3feb48d16ad28b8619b2093
+
+
+Poplular:
+https://api.themoviedb.org/3/movie/popular?api_key=81ad184ef3feb48d16ad28b8619b2093
+
+
+Top Rated :
+https://api.themoviedb.org/3/movie/top_rated?api_key=81ad184ef3feb48d16ad28b8619b2093
+
+
+upcoming:
+https://api.themoviedb.org/3/movie/upcoming?api_key=81ad184ef3feb48d16ad28b8619b2093
+
+Seach:
+https://api.themoviedb.org/3/movie/search?api_key=81ad184ef3feb48d16ad28b8619b2093&query={movie_name}
